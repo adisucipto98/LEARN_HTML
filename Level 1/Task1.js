@@ -1,0 +1,5 @@
+console.log("Nama : Adi Sucipto")
+console.log("Umur : 25 Tahun")
+console.log("Pendidikan terakhir : S-1")
+console.log("Pemrograman yang pernah dipelajari : C++, Java, Python")
+console.log("Alasan mengikuti bootcamp : Ingin bekerja secara profesional dibidang IT")
